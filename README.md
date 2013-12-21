@@ -1,6 +1,6 @@
 jquery-fullstickydiv
 ====================
 
-Sticky your div onScroll/onResize automatically (for fullpage website)
+sticky your div onScroll/onResize automatically (for fullpage website)
 
-How to use & example <http://www.jquery-fullstickydiv.com/>
+see example and usage <http://www.jquery-fullstickydiv.com/>
